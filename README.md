@@ -4,11 +4,7 @@ A Flutter application for managing contacts with an intuitive and user-friendly 
 
 ## Screenshots
 
-![screenshot-2024-07-09_15 12 07 966](https://github.com/albugowy15/image-upload/assets/49820990/77d508a3-c47b-4834-a543-76c814e2955c)
-![screenshot-2024-07-09_15 11 56 779](https://github.com/albugowy15/image-upload/assets/49820990/f5bf7cb2-4964-4ff1-8be3-981adcd975b9)
-![screenshot-2024-07-09_15 11 14 127](https://github.com/albugowy15/image-upload/assets/49820990/cd27788c-2456-4dac-a533-3a14379bd078)
-![screenshot-2024-07-09_15 10 05 834](https://github.com/albugowy15/image-upload/assets/49820990/a97e831e-d7b3-4523-bb24-d8266e414479)
-![screenshot-2024-07-09_15 09 58 472](https://github.com/albugowy15/image-upload/assets/49820990/692b45ee-00bb-4a42-bca6-9305d3b94df1)
+![Flutter Contacts App Demo](https://github.com/albugowy15/image-upload/assets/49820990/2250a06c-18c9-4fd0-88f0-305678c80b8c)
 
 ## Prerequisites
 
