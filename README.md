@@ -39,6 +39,6 @@ To run this project, follow these steps:
    flutter run
    ```
 
-# APK Version
+## APK Version
 
 You can download the APK version of the app from the [Releases](https://github.com/albugowy15/contacts/releases) page.
