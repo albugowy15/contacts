@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"teepee-contacts","appId":"1:955114522000:android:6eeb677c9a1997dc15df15","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"teepee-contacts","configurations":{"android":"1:955114522000:android:6eeb677c9a1997dc15df15","ios":"1:955114522000:ios:2bb0194a35bffdc115df15"}}}}}}
